@@ -14,6 +14,8 @@ It gathers key metrics, checks for potential issues, and presents results in a *
 
 The tool is **read-only**, making it safe for audits, IT administration, and system monitoring.
 
+<img width="942" height="703" alt="image" src="https://github.com/user-attachments/assets/80108c06-a194-4e39-9717-b5d5d9e5f245" />
+
 ---
 
 ## ⚡ Features
