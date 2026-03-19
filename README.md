@@ -13,7 +13,7 @@ This **PowerShell script** provides a **comprehensive system health report** for
 It gathers key metrics, checks for potential issues, and presents results in a **color-coded, easy-to-read console output**.  
 
 The tool is **read-only**, making it safe for audits, IT administration, and system monitoring. The project was created
-with SAPIEN Powershell Studio 2026.
+with **SAPIEN Powershell Studio 2026**.
 
 <img width="942" height="703" alt="image" src="https://github.com/user-attachments/assets/80108c06-a194-4e39-9717-b5d5d9e5f245" />
 
